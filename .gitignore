@@ -1,0 +1,7 @@
+node_modules/
+dist/
+demo-output/
+.vite/
+*.log
+.env
+.env.local
