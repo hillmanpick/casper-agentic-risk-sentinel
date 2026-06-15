@@ -93,7 +93,13 @@ This MVP is a safety and audit layer demo. It does not provide financial advice,
 
 ## Demo Video
 
-The local demo can be recorded with:
+The demo video is available in this repository:
+
+```text
+https://github.com/hillmanpick/casper-agentic-risk-sentinel/raw/main/demo/casper-agentic-risk-sentinel-demo.webm
+```
+
+The local demo can be recorded again with:
 
 ```bash
 npm run demo:record
