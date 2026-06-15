@@ -1,0 +1,13 @@
+{
+  "title": "Unsafe agent action",
+  "actionType": "defi_transfer",
+  "intent": "Move funds to a new address quickly.",
+  "destination": "Unknown address",
+  "destinationTrust": "unknown",
+  "exposurePercent": 42,
+  "maxExposurePercent": 20,
+  "dataFreshnessHours": 72,
+  "evidenceLevel": "low",
+  "protocolHealth": "degraded",
+  "humanConfirmation": "none"
+}
