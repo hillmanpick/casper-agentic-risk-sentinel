@@ -1,0 +1,13 @@
+{
+  "title": "DeFi rebalance review",
+  "actionType": "defi_rebalance",
+  "intent": "Rebalance a simulated treasury by moving 18% of stable assets into a higher-yield strategy after checking liquidity, slippage, and destination reputation.",
+  "destination": "Casper DeFi yield vault",
+  "destinationTrust": "known",
+  "exposurePercent": 18,
+  "maxExposurePercent": 25,
+  "dataFreshnessHours": 3,
+  "evidenceLevel": "medium",
+  "protocolHealth": "normal",
+  "humanConfirmation": "required"
+}
